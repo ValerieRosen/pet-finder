@@ -1,0 +1,16 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.form-control li {
+  list-style-type: none;
+}
+
+.pets-listing {
+  margin-bottom: 2em;
+}
+
+h1,
+h2 {
+  margin: 0.5em;
+}
